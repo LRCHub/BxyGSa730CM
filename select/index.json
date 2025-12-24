@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "I Want to Write You a Song",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:15:32.905157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Want to Write You a Song",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_I_Want_to_Write_You_a_Song_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Want to Write You a Song",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_I_Want_to_Write_You_a_Song_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Direction - I Want to Write You a Song (Audio)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_One_Direction_-_I_Want_to_Write_You_a_Song_(Audio)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want to Write You a Song",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_I_Want_to_Write_You_a_Song_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Direction - I Want to Write You a Song (Audio)",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/05_One_Direction_-_I_Want_to_Write_You_a_Song_(Audio)_One_Direction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want To Write You A Song - (2015)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_I_Want_To_Write_You_A_Song_-_(2015)_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Want to Write You a Song",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_I_Want_to_Write_You_a_Song_One_Direction.txt"
+    }
+  ]
+}
